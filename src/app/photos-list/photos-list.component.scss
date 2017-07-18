@@ -1,0 +1,16 @@
+img {
+  height: 300px;
+  width: 300px;
+  padding: 1em;
+  border: solid 2px tomato;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.photo {
+  object-fit: cover;
+}

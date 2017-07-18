@@ -5,6 +5,9 @@
 /tmp
 /out-tsc
 
+#api keys
+/api-keys
+
 # dependencies
 /node_modules
 
